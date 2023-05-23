@@ -1,0 +1,16 @@
+org\example\simulator\CyclicThreadSequencer.class
+org\example\clock\Clock.class
+org\example\io\UserInputReader.class
+org\example\task\AbstractTask.class
+org\example\task\TaskRecord.class
+org\example\task\Task.class
+org\example\processor\AbstractProcessor.class
+org\example\processor\Processor.class
+org\example\task\NormalTaskComparator.class
+org\example\processor\SingleTaskProcessor.class
+org\example\simulator\Simulator.class
+org\example\Main.class
+org\example\task\TaskComparator.class
+org\example\io\OutputPrinter.class
+org\example\clock\AbstractClock.class
+org\example\scheduler\Scheduler.class

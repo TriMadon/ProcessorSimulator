@@ -1,0 +1,13 @@
+org\example\clock\Clock.class
+org\example\processor\Task.class
+org\example\data\UserInputReader.class
+org\example\data\TaskInfo.class
+org\example\simulator\Scheduler.class
+org\example\processor\NormalTaskComparator.class
+org\example\processor\ITask.class
+org\example\processor\Processor.class
+org\example\processor\TaskComparator.class
+org\example\simulator\Simulator.class
+org\example\Main.class
+org\example\clock\ClockTask.class
+org\example\data\ConsolePrinter.class
