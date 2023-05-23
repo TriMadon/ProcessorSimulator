@@ -19,7 +19,7 @@ To test this, just open a terminal in main directory and type:
 java -jar ProcessorSim.jar
 ```
 
-The output will be a cycle-by-cycle analysis of the creation of tasks that follows the following format:
+The output will be a cycle-by-cycle analysis of the creation and execution of tasks accross all processors that follows the following format:
 ```
 Cycle   P1(processor 1)                                      P2           P3       ...
 C1      T1:3(Task 1:Remaining clock cycles for Task 1)       T3:2         T2:5     
