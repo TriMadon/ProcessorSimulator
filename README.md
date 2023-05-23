@@ -11,7 +11,7 @@ The user is asked to input the number of processors, the time (number of clocks)
 ...
 ```
 
-examples can be seen in the inputExamples file
+examples can be seen in the inputExamples folder
 
 To test this, just open a terminal in main directory and type:
 
